@@ -37,12 +37,3 @@ Para executar o projeto, você precisa implementar suas funções de seleção, 
 ```bash
 python principal.py
 ```
-
-## TODO
-
-- [ ] Criar função de seleção.
-- [ ] Implementar função de recombinação.
-- [ ] Desenvolver função de mutação.
-- [ ] Verificar outros TODOs no código para otimizações adicionais.
-- [ ] Adicionar funcionalidades e operações necessárias para melhorar seu algoritmo.
-# MarIA
